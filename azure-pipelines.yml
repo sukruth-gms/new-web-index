@@ -25,3 +25,4 @@ steps:
   inputs:
     serviceEndpoint: 'LD'
     rollout: 'Member Portal'
+    turnOn: 'true'
