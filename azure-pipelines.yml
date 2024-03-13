@@ -24,4 +24,4 @@ steps:
 - task: Rollout@3
   inputs:
     serviceEndpoint: 'LD'
-    rollout: '0'
+    rollout: 'Member Portal'
